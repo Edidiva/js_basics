@@ -11,6 +11,6 @@ You would see the Hello Edikan message on the console.
 In a dynamically typed language, the type of a variable is determined at runtime and can change during the execution of the program. This means that a single variable can store values of different data types at different times. Examples of dynamically typed languages include Python, Ruby, and JavaScript.
 7. undefined is a value that is assigned to a variable that has been declared but has not been assigned a value. When a variable is declared, but has not been assigned a value, its value is automatically set to undefined.
 null, on the other hand, is an assignment value. It represents a deliberate non-value, and it can be assigned to a variable to indicate that it has no value.
-&nbsp; is not a JavaScript language construct. It is a HTML character entity reference for a non-breaking space. In HTML, the &nbsp; character is used to insert a non-breaking space, which is a space character that does not break onto a new line.
+<!-- &nbsp; is not a JavaScript language construct. It is a HTML character entity reference for a non-breaking space. In HTML, the &nbsp; character is used to insert a non-breaking space, which is a space character that does not break onto a new line. -->
 
 
